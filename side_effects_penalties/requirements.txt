@@ -50,7 +50,7 @@ mercurial==5.5.1+348.80bf7b1ada15
 monotonic==1.5
 mox3==1.0.0
 networkx==1.8.1
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.1.0
 obno==39
 olefile==0.46
